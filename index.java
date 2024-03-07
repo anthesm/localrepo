@@ -1,3 +1,7 @@
 class index{
-system.out.print{(hello)}
+system.out.printIn("hello")
+}
+
+public static  void main(string[] args){
+    
 }
