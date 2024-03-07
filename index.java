@@ -1,3 +1,3 @@
 class index{
-print("hello")
+system.out.print{(hello)}
 }
